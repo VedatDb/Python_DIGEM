@@ -1,0 +1,24 @@
+[
+    {
+        "kitap_adi": "deneme",
+        "yazar": "deneme2",
+        "Yılı": 1900,
+        "Fiyat": 100,
+        "Müsaitlik Durumu": true
+    },
+    {
+        "kitap_adi": "deneme2",
+        "yazar": "denemee3",
+        "Yılı": 1900,
+        "Fiyat": 100,
+        "Müsaitlik Durumu": true
+    },
+    {
+        "kitap_adi": "deneme",
+        "yazar": "deneme2",
+        "Yılı": 1900,
+        "Fiyat": 1900,
+        "Kategori": "felsefe",
+        "Müsaitlik Durumu": true
+    }
+]
