@@ -70,7 +70,7 @@ while True:
                 if kitap["kitap_adi"]==kitap_ver:
                     if kitap["Müsaitlik Durumu"]==True:
                         print("Kitap Müsait")
-                        kitap["Müsaitlik Duurumu"]==False
+                        kitap["Müsaitlik Durumu"]==False
                     else:
                         print("Kitap Müsait Değil")
             json.dump(data,file,indent=4, ensure_ascii=False)

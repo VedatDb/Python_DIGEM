@@ -1,0 +1,32 @@
+[
+    {
+        "mail": "mail@gmail.com",
+        "password": "12345",
+        "bakiye": {
+            "TL": 1000,
+            "USD": 100,
+            "EUR": 10,
+            "GOLD": 1
+        }
+    },
+    {
+        "mail": "deneme@gmail.com",
+        "password": "123456",
+        "bakiye": {
+            "TL": 1000,
+            "USD": 100,
+            "EUR": 10,
+            "GOLD": 1
+        }
+    },
+    {
+        "mail": "deneme1@gmail.com",
+        "password": "12344",
+        "bakiye": {
+            "TL": 0,
+            "USD": 0,
+            "EUR": 0,
+            "GOLD": 0
+        }
+    }
+]
