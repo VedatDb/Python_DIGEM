@@ -1,3 +1,4 @@
+#Ders 2 Project
 ad=input ("adınızı giriniz=")
 print("Merhaba",ad)
 

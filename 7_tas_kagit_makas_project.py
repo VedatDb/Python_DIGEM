@@ -1,3 +1,4 @@
+#Taş Kağıt Makas Project
 import random
 secenekler=["taş", "kağıt", "makas"]
 kullanici_puan=0

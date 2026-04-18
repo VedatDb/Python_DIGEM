@@ -1,3 +1,4 @@
+#While Project
 from random import randint
 tahmin_sayi=randint(1,10)
 hak=3

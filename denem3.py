@@ -1,3 +1,4 @@
+#Otopark Project
 sure=int(input("Otoparkta Ne kadar Süre Kalacaksınız (saat):"))
 arac=input("Araç tipi nedir? Otomobil / Motosiklet / Kamyon : ")
 vip=input("VIP misiniz? (Evet/Hayır): ")

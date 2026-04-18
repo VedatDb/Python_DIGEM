@@ -1,3 +1,4 @@
+#Koşul Project
 notun=int(input("notunuzu girin "))
 if notun>=70:
     print("başarılı bir not")

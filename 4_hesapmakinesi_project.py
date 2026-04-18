@@ -1,3 +1,5 @@
+#Hesap Makinesi Project
+
 sayi1=int(input("Birinci sayıyı giriniz: "))
 sayi2=int(input("İkinci sayıyı giriniz: "))
 

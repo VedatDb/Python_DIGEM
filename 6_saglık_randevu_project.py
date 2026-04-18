@@ -1,3 +1,4 @@
+#Sağlık Randevu Project
 yas=int(input("Yaşınızı giriniz: "))
 acil=input("Acil mi? (e/h)")
 kronik=input("Kronik rahatıszlığı var mı? (e/h)")

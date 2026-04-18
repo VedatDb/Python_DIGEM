@@ -1,4 +1,4 @@
-#Girdi kontrolü
+#Girdi kontrolü 
 import time
 
 
