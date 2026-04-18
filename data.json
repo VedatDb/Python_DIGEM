@@ -38,5 +38,21 @@
         "Fiyat": 1000,
         "Kategori": "kitap",
         "Müsaitlik Durumu": true
+    },
+    {
+        "kitap_adi": "deneme3",
+        "yazar": "dneme2",
+        "Yılı": 1909,
+        "Fiyat": 1500,
+        "Kategori": "korku",
+        "Müsaitlik Durumu": true
+    },
+    {
+        "kitap_adi": "deneme45",
+        "yazar": "deneme46",
+        "Yılı": 1988,
+        "Fiyat": 1500,
+        "Kategori": "gerilim",
+        "Müsaitlik Durumu": true
     }
 ]

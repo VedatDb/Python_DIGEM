@@ -36,7 +36,7 @@ while True:
          
 
             json.dump(data,file,indent=4, ensure_ascii=False)
-    
+        print("Kitap Eklendi")   
     elif secim=="4":
         for kitap in data:
             print("-"*20)
