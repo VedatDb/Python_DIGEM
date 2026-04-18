@@ -1,3 +1,5 @@
+#İleri Bankamatik Otomasyonu Project
+
 import json
 import mailbox
 import random
